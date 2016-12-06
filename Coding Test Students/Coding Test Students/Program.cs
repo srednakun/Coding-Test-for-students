@@ -11,6 +11,7 @@ namespace Coding_Test_Students
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello again");
         }
     }
 }

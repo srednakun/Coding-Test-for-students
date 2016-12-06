@@ -7,3 +7,6 @@ C:\Users\Sredna\Documents\FALL 2016\CSI 152\Misc\Coding Test Students\Coding Tes
 C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\bin\Debug\Coding Test Students.exe.config
 C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\obj\Debug\Coding Test Students.exe
 C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\obj\Debug\Coding Test Students.pdb
+C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\bin\Debug\Coding Test Students.exe
+C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\bin\Debug\Coding Test Students.pdb
+C:\Users\Sredna\Source\Repos\Coding-Test-for-students\Coding Test Students\Coding Test Students\obj\Debug\Coding Test Students.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\bin\Debug\Coding-Test-for-students.exe.config
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\bin\Debug\Coding-Test-for-students.exe
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\bin\Debug\Coding-Test-for-students.pdb
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\obj\Debug\Coding-Test-for-students.exe
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\obj\Debug\Coding-Test-for-students.pdb
+F:\Personal Projects\Coding-Test-for-students\Coding-Test-for-students\obj\Debug\Coding-Test-for-students.csprojResolveAssemblyReference.cache
